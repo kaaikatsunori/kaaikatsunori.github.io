@@ -16,7 +16,7 @@ sass:
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "ゆるい理系大学生のルーティーン"
 description:	       "1~3年までの大学の流れとこれから"
-author:              "河相　克憲"
+author:              "kaaa"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
